@@ -1,4 +1,4 @@
-# Playground
+# Playground - Edited by Chase Yager
 
 A place to play with `git`.
 
