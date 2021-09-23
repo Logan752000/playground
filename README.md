@@ -1,4 +1,4 @@
-# Playground
+# Playground - Edited by Logan Clifton
 
 A place to play with `git`.
 
